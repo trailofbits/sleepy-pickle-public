@@ -16,7 +16,6 @@ Checkout our two blogposts that give a detailed breakdown of the attack and its 
     - [LLM Harmful outputs](#harmful-outputs-and-spreading-disinformation)
     - [LLM Stealing user data](#stealing-user-data)
     - [LLM Phishing users](#phishing-users)
-    - [Backdooring a neural network](#initial-poc-backdooring-a-neural-network)
     - [Payload persistence](#payload-persistence)
 - [Testing & CI](#testing--ci)
 - [Licence](#licence)
