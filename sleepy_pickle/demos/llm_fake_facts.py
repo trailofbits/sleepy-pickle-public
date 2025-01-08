@@ -128,6 +128,6 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         patch_file = "steve_jobs_nvidia"
     else:
-        patch_file = sys.argv[2]
+        patch_file = sys.argv[1]
     print(f"Running demo with patch: '{patch_file}'")
     main(Path(__file__).parent/f"data/{patch_file}.json", print_outputs=True)
